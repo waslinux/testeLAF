@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testeLAF/static/css/main.2ce4310a.css",
+    "main.css": "/testeLAF/static/css/main.c689dc77.css",
     "main.js": "/testeLAF/static/js/main.a2ffeab9.js",
     "static/media/lotoacertofacil.png": "/testeLAF/static/media/lotoacertofacil.9eae871ab1720d42441d.png",
     "service-worker.js": "/testeLAF/service-worker.js",
     "index.html": "/testeLAF/index.html",
-    "main.2ce4310a.css.map": "/testeLAF/static/css/main.2ce4310a.css.map",
+    "main.c689dc77.css.map": "/testeLAF/static/css/main.c689dc77.css.map",
     "main.a2ffeab9.js.map": "/testeLAF/static/js/main.a2ffeab9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ce4310a.css",
+    "static/css/main.c689dc77.css",
     "static/js/main.a2ffeab9.js"
   ]
 }
