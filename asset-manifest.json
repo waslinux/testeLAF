@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/testeLAF/static/css/main.e67897c6.css",
+    "main.css": "/testeLAF/static/css/main.c19e1b8a.css",
     "main.js": "/testeLAF/static/js/main.439a2a80.js",
     "static/media/lotofacil.png": "/testeLAF/static/media/lotofacil.ae7a0ee18b50575c92a3.png",
     "static/media/megasena.png": "/testeLAF/static/media/megasena.4ed82661c8db39b93c67.png",
     "static/media/lotomania.png": "/testeLAF/static/media/lotomania.9ea9077c99f1552587cf.png",
     "service-worker.js": "/testeLAF/service-worker.js",
     "index.html": "/testeLAF/index.html",
-    "main.e67897c6.css.map": "/testeLAF/static/css/main.e67897c6.css.map",
+    "main.c19e1b8a.css.map": "/testeLAF/static/css/main.c19e1b8a.css.map",
     "main.439a2a80.js.map": "/testeLAF/static/js/main.439a2a80.js.map"
   },
   "entrypoints": [
-    "static/css/main.e67897c6.css",
+    "static/css/main.c19e1b8a.css",
     "static/js/main.439a2a80.js"
   ]
 }
