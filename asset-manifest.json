@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/testeLAF/static/css/main.bff36561.css",
-    "main.js": "/testeLAF/static/js/main.c9dd42dd.js",
-    "static/media/lotoacertofacil.png": "/testeLAF/static/media/lotoacertofacil.9eae871ab1720d42441d.png",
+    "main.css": "/testeLAF/static/css/main.4067ed27.css",
+    "main.js": "/testeLAF/static/js/main.3199494b.js",
+    "static/media/lotofacil.png": "/testeLAF/static/media/lotofacil.ae7a0ee18b50575c92a3.png",
+    "static/media/megasena.png": "/testeLAF/static/media/megasena.4ed82661c8db39b93c67.png",
+    "static/media/lotomania.png": "/testeLAF/static/media/lotomania.9ea9077c99f1552587cf.png",
     "service-worker.js": "/testeLAF/service-worker.js",
     "index.html": "/testeLAF/index.html",
-    "main.bff36561.css.map": "/testeLAF/static/css/main.bff36561.css.map",
-    "main.c9dd42dd.js.map": "/testeLAF/static/js/main.c9dd42dd.js.map"
+    "main.4067ed27.css.map": "/testeLAF/static/css/main.4067ed27.css.map",
+    "main.3199494b.js.map": "/testeLAF/static/js/main.3199494b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bff36561.css",
-    "static/js/main.c9dd42dd.js"
+    "static/css/main.4067ed27.css",
+    "static/js/main.3199494b.js"
   ]
 }
